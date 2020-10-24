@@ -1,0 +1,8 @@
+{
+    "name": "Send issue to discord",
+    "description": "Sends a notification to discord when someone opens an issue",
+    "iconName": "icon-discord",
+    "categories": [
+        "Integrations"
+    ]
+}
